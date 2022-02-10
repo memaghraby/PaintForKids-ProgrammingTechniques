@@ -1,0 +1,107 @@
+﻿  ToPlayModeAction.cpp
+  SelectionAction.cpp
+  SaveGraphAction.cpp
+  SaveByTypeAction.cpp
+  PasteAction.cpp
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\pasteaction.cpp(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  LoadAction.cpp
+  ApplicationManager.cpp
+  Output.cpp
+  Input.cpp
+  Function.cpp
+  AddRectAction.cpp
+  CRectangle.cpp
+  CFigure.cpp
+  ExitAction.cpp
+  DeleteFigureAction.cpp
+  CutAction.cpp
+  CTriangle.cpp
+  CRhombus.cpp
+  CopyAction.cpp
+  Generating Code...
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\figures\cfigure.cpp(126): warning C4715: 'GetColorName': not all control paths return a value
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\figures\cfigure.cpp(103): warning C4715: 'StringToColor': not all control paths return a value
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\applicationmanager.cpp(635): warning C4715: 'ApplicationManager::CountType': not all control paths return a value
+  Compiling...
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\image.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iX': unreferenced local variable
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iY': unreferenced local variable
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(1164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(1171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(1210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\cmugraphics.cpp(1357): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  CLine.cpp
+  ChngFIllClrAction.cpp
+  ChngDrawClrAction.cpp
+  CEllipse.cpp
+  AddTriangleAction.cpp
+  AddRhombusAction.cpp
+  AddLineAction.cpp
+  AddEllipseAction.cpp
+  Generating Code...
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\jpeg\jmemmgr.c(1103): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\jpeg\jmemmgr.c(1106): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\jpeg\jerror.c(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\jpeg\jerror.c(171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+c:\users\z50\desktop\cufe\project\new\phase2 - programming\final all\teambproject\cmugraphicslib\jpegload.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+AddEllipseAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> C:\Users\Z50\Desktop\CUFE\project\new\Phase2 - programming\final all\TEAMBproject\.\Debug\PT Project.exe
